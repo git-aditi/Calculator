@@ -13,6 +13,8 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 public class PracticeCalc1 implements ActionListener {
+// USE THIS
+	
 	private static JTextField inputBox;
 
 	private static double firstnum;
