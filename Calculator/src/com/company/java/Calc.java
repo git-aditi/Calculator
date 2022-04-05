@@ -7,7 +7,7 @@ public class Calc implements ActionListener {
 
 	public double addition(double first, double second) {
 		return first + second; 
-	}
+	} 
 
 	public double subtraction(double first, double second) {
 		return first - second;
